@@ -1,5 +1,6 @@
-# Calculator
-this application helps to calculate basic arithmetic calculations
+<!-- # Calculator
+this application helps to calculate basic arithmetic calculations  -->
+
 #include <stdio.h>
 
 void displayMenu() {
